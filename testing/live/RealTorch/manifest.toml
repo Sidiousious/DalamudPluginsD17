@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/yfthbr/RealTorch.git"
+commit = "53323fe8fc997f06ebf7c13a24ccdd1c82655cdd"
+owners = ["yfthbr"]
+project_path = "RealTorch"
